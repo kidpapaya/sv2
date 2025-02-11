@@ -4,7 +4,7 @@ const messageInput = document.getElementById('message-input');
 const sendButton = document.getElementById('send-button');
 
 const messages = [
-    { text: "Hola niña...", sender: "sent" },
+    { text: "Hola flancito 💕...", sender: "sent" },
     { text: "Hola", sender: "received" },
     { text: "¿Sabes qué día es hoy?", sender: "sent" },
     { text: "¿Hoy? 🤔", sender: "received" },
